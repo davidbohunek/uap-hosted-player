@@ -1,0 +1,13 @@
+{
+  "name": "uapplayer-webapp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "David Bohunek <david@bohunek.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "serve-static": "^1.10.2"
+  }
+}

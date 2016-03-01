@@ -1,0 +1,4 @@
+node_modules
+/storeApp/uapPlayer/.vs
+/storeApp/uapPlayer/bin
+/storeApp/uapPlayer/bld
